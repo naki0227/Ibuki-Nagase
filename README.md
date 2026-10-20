@@ -37,5 +37,5 @@
 ---
 
 <div align="center">
-  <a href="https://enludus.vercel.app">🌐 Portfolio Website</a> • <a href="https://x.com/enludus">🐦 Twitter (X)</a>
+  <a href="https://enludus.com">🌐 Portfolio Website</a> • <a href="https://x.com/enludus">🐦 Twitter (X)</a>
 </div>
